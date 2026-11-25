@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c5b86f-0006-47f8-a35d-cd769f7679a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMac.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jars/theknife-client-macos.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jars/theknife-server.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="f4c5b86f-0006-47f8-a35d-cd769f7679a6" name="Changes" comment="inizializzazione sistema per runnare il codice da Mac">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +18,80 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Tullo406"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tullo406/TestMacgit.git",
+    "accountId": "9f55cd38-3dbb-4ad3-9b7a-968d747118b1"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.7061133425847146E-118" />
+      <entry key="S5" value="3.004408685817582E-47" />
+      <entry key="S10" value="1.4719057819893945E-23" />
+      <entry key="S30" value="1.934437192940261E-7" />
+      <entry key="S60" value="0.004000701063118283" />
+      <entry key="M2" value="0.7094746442475908" />
+      <entry key="M5" value="22.080311391758986" />
+      <entry key="M10" value="83.30238242303702" />
+      <entry key="M15" value="133.90058995121743" />
+      <entry key="M30" value="219.07362093995033" />
+      <entry key="H1" value="282.1293024698665" />
+      <entry key="H2" value="320.7170390547921" />
+      <entry key="H4" value="342.09390927560037" />
+      <entry key="D1" value="361.0713152497362" />
+      <entry key="W1" value="364.4359758124803" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.145968933451652E-5" />
+      <entry key="MS500" value="0.14378648666882562" />
+      <entry key="S2" value="0.6157855847156626" />
+      <entry key="S5" value="0.8237051991401853" />
+      <entry key="S10" value="0.907582061931694" />
+      <entry key="S30" value="0.9681932591310665" />
+      <entry key="S60" value="0.9879682188462657" />
+      <entry key="M2" value="1.7013810754376226" />
+      <entry key="M5" value="23.07650801907356" />
+      <entry key="M10" value="84.29965234234407" />
+      <entry key="M15" value="134.89830364763841" />
+      <entry key="M30" value="220.0720793802853" />
+      <entry key="H1" value="283.12838249816963" />
+      <entry key="H2" value="321.7165331385571" />
+      <entry key="H4" value="343.0936435551625" />
+      <entry key="D1" value="362.07126907100474" />
+      <entry key="W1" value="365.43596916754825" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -62,6 +125,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tullo\IdeaProjects\TestMac\jars" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,5 +150,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inizializzazione sistema per runnare il codice da Mac" />
+    <option name="LAST_COMMIT_MESSAGE" value="inizializzazione sistema per runnare il codice da Mac" />
   </component>
 </project>
