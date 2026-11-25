@@ -17,7 +17,36 @@ jobs:
           distribution: zulu
           java-version: '21'
 
+      - name: Start PostgreSQL
+        run: |
+          brew install postgresql@16
+          echo "$(brew --prefix postgresql@16)/bin" >> "$GITHUB_PATH"
+          brew services start postgresql@16
+
+          for attempt in {1..30}; do
+            if pg_isready -h 127.0.0.1 -p 5432; then
+              break
+            fi
+            sleep 2
+          done
+          pg_isready -h 127.0.0.1 -p 5432
+
+          createuser --superuser admin
+          createdb --owner=admin theknife
+          psql -d postgres -c "ALTER USER admin WITH PASSWORD 'admin';"
+
       - name: Start interactive SSH session
-        uses: mxschmitt/action-tmate@v3
+        uses: owenthereal/action-upterm@v2
         with:
           limit-access-to-actor: true
+
+      - name: Upload verification files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-gui-verification
+          path: |
+            client-screenshot.png
+            server.log
+            client.log
+          if-no-files-found: warn
