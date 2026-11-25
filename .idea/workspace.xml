@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c5b86f-0006-47f8-a35d-cd769f7679a6" name="Changes" comment="inizializzazione sistema per runnare il codice da Mac">
+    <list default="true" id="f4c5b86f-0006-47f8-a35d-cd769f7679a6" name="Changes" comment="prova commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,62 +36,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.7061133425847146E-118" />
-      <entry key="S5" value="3.004408685817582E-47" />
-      <entry key="S10" value="1.4719057819893945E-23" />
-      <entry key="S30" value="1.934437192940261E-7" />
-      <entry key="S60" value="0.004000701063118283" />
-      <entry key="M2" value="0.7094746442475908" />
-      <entry key="M5" value="22.080311391758986" />
-      <entry key="M10" value="83.30238242303702" />
-      <entry key="M15" value="133.90058995121743" />
-      <entry key="M30" value="219.07362093995033" />
-      <entry key="H1" value="282.1293024698665" />
-      <entry key="H2" value="320.7170390547921" />
-      <entry key="H4" value="342.09390927560037" />
-      <entry key="D1" value="361.0713152497362" />
-      <entry key="W1" value="364.4359758124803" />
+      <entry key="MS100" value="1.3899333513704444" />
+      <entry key="MS500" value="2.426487787224797" />
+      <entry key="S2" value="7.0339312625104" />
+      <entry key="S5" value="14.717097239028423" />
+      <entry key="S10" value="22.198580092466532" />
+      <entry key="S30" value="39.07012143495278" />
+      <entry key="S60" value="50.73288348541908" />
+      <entry key="M2" value="65.92272710480036" />
+      <entry key="M5" value="109.92959081396516" />
+      <entry key="M10" value="196.13359473395136" />
+      <entry key="M15" value="284.16206743639697" />
+      <entry key="M30" value="485.53770017404867" />
+      <entry key="H1" value="688.4596312683714" />
+      <entry key="H2" value="839.247586920451" />
+      <entry key="H4" value="932.3090215200756" />
+      <entry key="D1" value="1020.9283643909356" />
+      <entry key="W1" value="1037.24644953228" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.789840808211403E-156" />
+      <entry key="S10" value="1.6702816553538045E-78" />
+      <entry key="S30" value="1.1864876910863178E-26" />
+      <entry key="S60" value="1.0892601576695671E-13" />
+      <entry key="M2" value="3.300394154748134E-7" />
+      <entry key="M5" value="0.002555208383597577" />
+      <entry key="M10" value="0.05054906906756669" />
+      <entry key="M15" value="0.1367126729618434" />
+      <entry key="M30" value="0.3697467686969629" />
+      <entry key="H1" value="0.6080680625529992" />
+      <entry key="H2" value="0.7797871905545812" />
+      <entry key="H4" value="0.8830555987901109" />
+      <entry key="D1" value="0.9794854928981477" />
+      <entry key="W1" value="0.9970432580214457" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.145968933451652E-5" />
-      <entry key="MS500" value="0.14378648666882562" />
-      <entry key="S2" value="0.6157855847156626" />
-      <entry key="S5" value="0.8237051991401853" />
-      <entry key="S10" value="0.907582061931694" />
-      <entry key="S30" value="0.9681932591310665" />
-      <entry key="S60" value="0.9879682188462657" />
-      <entry key="M2" value="1.7013810754376226" />
-      <entry key="M5" value="23.07650801907356" />
-      <entry key="M10" value="84.29965234234407" />
-      <entry key="M15" value="134.89830364763841" />
-      <entry key="M30" value="220.0720793802853" />
-      <entry key="H1" value="283.12838249816963" />
-      <entry key="H2" value="321.7165331385571" />
-      <entry key="H4" value="343.0936435551625" />
-      <entry key="D1" value="362.07126907100474" />
-      <entry key="W1" value="365.43596916754825" />
+      <entry key="MS100" value="1.298051969330186" />
+      <entry key="MS500" value="2.3966772135098373" />
+      <entry key="S2" value="7.008992978824067" />
+      <entry key="S5" value="14.695447256420165" />
+      <entry key="S10" value="22.182389010557987" />
+      <entry key="S30" value="39.0608374089217" />
+      <entry key="S60" value="50.726910799725516" />
+      <entry key="M2" value="65.91888101534668" />
+      <entry key="M5" value="109.92959643283893" />
+      <entry key="M10" value="196.1818122215889" />
+      <entry key="M15" value="284.29645459004536" />
+      <entry key="M30" value="485.90535558424335" />
+      <entry key="H1" value="689.0661708718001" />
+      <entry key="H2" value="840.026428109668" />
+      <entry key="H4" value="933.1915476964783" />
+      <entry key="D1" value="1021.9077526621431" />
+      <entry key="W1" value="1038.2434786647523" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Security Analysis" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -164,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inizializzazione sistema per runnare il codice da Mac" />
-    <option name="LAST_COMMIT_MESSAGE" value="inizializzazione sistema per runnare il codice da Mac" />
+    <MESSAGE value="prova commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="prova commit" />
   </component>
 </project>
